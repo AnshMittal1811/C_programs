@@ -34,9 +34,6 @@ int main(int argc, char** argv) {
     printf("DBL_MIN     :   %g\n", (double) DBL_MIN);
     printf("-DBL_MAX     :  %g\n", (double) -DBL_MAX);
     printf("Precision value: %d\n", FLT_DIG );
-
-    return 0;
-
     return 0;
 }
 
